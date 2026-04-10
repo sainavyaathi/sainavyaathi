@@ -9,8 +9,8 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
-<h1 align="center">👋 Hey, I'm Athi Sai Navya</h1>
-<h3 align="center">🎓 Data Science Enthusiast | 💻 Passionate Learner | 🌱 Always Exploring</h3>
+<h1 align="center"> Hey, I'm Athi Sai Navya</h1>
+<h3 align="center"> Data Science Enthusiast |  Passionate Learner |  Always Exploring</h3>
 
 <p align="center">
 📍 India &nbsp;|&nbsp; 📧 <a href="mailto:sainavyaathi@gmail.com">sainavyaathi@gmail.com</a>  
@@ -18,11 +18,11 @@
 
 ---
 
-### 🚀 About Me
-- 🌟 Enthusiastic Data Science student passionate about turning data into meaningful insights.  
-- 🧠 Exploring Machine Learning, AI, and NLP to solve real-world problems.  
-- 💡 Love working on hands-on projects and learning new technologies.  
-- ✨ Always curious, always learning.
+###  About Me
+-  Enthusiastic Data Science student passionate about turning data into meaningful insights.  
+-  Exploring Machine Learning, AI, and NLP to solve real-world problems.  
+-  Love working on hands-on projects and learning new technologies.  
+-  Always curious, always learning.
 
 ---
 
@@ -33,13 +33,13 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/your-linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:sainavyaathi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
